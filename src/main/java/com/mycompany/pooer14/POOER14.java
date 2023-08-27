@@ -24,7 +24,7 @@ public class POOER14 {
         vd2 = lector.nextInt();
         System.out.println("Ingrese las ventas del departamento 3: ");
         vd3 = lector.nextInt();
-        System.out.println("Ingrese el salario de los vendedores de cada departamento");
+        System.out.println("Ingrese el salario de los vendedores de cada departamento: ");
         salar = lector.nextDouble();
         
         totven = vd1 + vd2 + vd3;
